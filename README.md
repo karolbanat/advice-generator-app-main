@@ -17,4 +17,4 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/karolbanat)
+- Frontend Mentor - [@karolbanat](https://www.frontendmentor.io/profile/karolbanat)
