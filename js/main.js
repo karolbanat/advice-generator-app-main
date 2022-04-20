@@ -5,7 +5,7 @@ const quoteBlock = document.querySelector('.card__quote');
 const fetchURL = 'https://api.adviceslip.com/advice';
 
 const getAdvice = () => {
-	fetch(fetchURL)
+	fetch(fetchURL, { cache: 'no-cache' })
 		.then((responese) => responese.json())
 		.then((data) => {
 			const slipObject = data.slip;
